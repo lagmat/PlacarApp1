@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">PlacarApp</string>
-    <string name="label_titulo">Times</string>
-    <string name="label_desenvolvido">Desenvolvido por Erich Hubner</string>
-    <string name="plcar_inicial">0</string>
-    <string name="gol">GOL</string>
+    <string name="app_name" translatable="false">PlacarApp</string>
+    <string name="label_titulo">Teams</string>
+    <string name="label_desenvolvido">Developed by Erich Hubner</string>
+    <string name="plcar_inicial" translatable="false">0</string>
+    <string name="gol">Goal</string>
 </resources>
